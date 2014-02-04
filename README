@@ -1,0 +1,3 @@
+Input a string of characters, the program will print all possible english words that can be composed of those characters. Implemented using a simple recursive algorithm. 
+
+Note: Program will print all valid words of any length that can be composed out of the string of characters.
